@@ -1,3 +1,4 @@
+#je ne m'en sert pas réelement mais c'est pour tester si il y a un problème
 import mysql.connector as MC
 
 nom="François"

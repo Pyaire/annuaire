@@ -1,3 +1,4 @@
+#ce programme n'est qu'un test et ne concerne pas le projet même
 import mysql.connector as MC
 
 nom="Ansel"
